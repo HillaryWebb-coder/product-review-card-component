@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/HillaryWebb-coder/product-review-card-component)
-- Live Site URL: [Add live site URL here](https://product-component.netlify.app/)
+- Solution URL: [product-review-card-component](https://github.com/HillaryWebb-coder/product-review-card-component)
+- Live Site URL: [product-component.netlify.app](https://product-component.netlify.app/)
 
 ## My process
 
