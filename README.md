@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/HillaryWebb-coder/product-review-card-component)
+- Live Site URL: [Add live site URL here](https://product-component.netlify.app/)
 
 ## My process
 
@@ -51,19 +51,22 @@ I was able to properly apply css grid to responsively align items in a div relat
 To see how you can add code snippets, see below:
 
 desktop-version
+
 ```css
 .card {
-        max-width: 500px;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: auto;
-      }
+  max-width: 500px;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: auto;
+}
 ```
+
 mobile-version
+
 ```css
-    .card {
-      display: grid;
-      grid-template-rows: repeat(2, 1fr);
-    }
+.card {
+  display: grid;
+  grid-template-rows: repeat(2, 1fr);
+}
 ```
 
 ### Continued development
