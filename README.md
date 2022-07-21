@@ -78,5 +78,5 @@ mobile-version
 ## Author
 
 - Website - [Ogieleguea Hillary](https://www.github.com/hillarywebb-coder)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/HillaryWebb-coder)
-- Twitter - [@yourusername](https://twitter.com/OgielegueaH)
+- Frontend Mentor - [@HillaryWebb-coder](https://www.frontendmentor.io/profile/HillaryWebb-coder)
+- Twitter - [@OgielegueaH](https://twitter.com/OgielegueaH)
